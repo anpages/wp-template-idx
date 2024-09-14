@@ -7,5 +7,5 @@ This is a PHP API service starter based on [Google Cloud Run Quickstart](https:/
 To test the service locally, run:
 
 ```sh
-php -S localhost:3000 index.php
+php -S localhost:9001 index.php
 ```
